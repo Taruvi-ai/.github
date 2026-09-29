@@ -1,3 +1,7 @@
+<a href="https://taruvibase.com/">
+  <img src="../assets/taruvibase_cover.jpeg" alt="Build enterprise applications in days, not months." width="100%" />
+</a>
+
 <div align="center">
 
 # TaruviBase
@@ -27,17 +31,15 @@ secrets, events, APIs, and AI-native development through MCP.
 
 | | SDK / Integration | Latest | Install | Start here |
 |---|---|---|---|---|
-| 🟨 | **JavaScript / TypeScript SDK** | ![npm](https://img.shields.io/npm/v/@taruvi/sdk?label=version) | `npm install @taruvi/sdk` | [SDK docs](https://docs.taruvibase.com/docs/sdk/overview/) |
-| 🐍 | **Python SDK** | ![PyPI](https://img.shields.io/pypi/v/taruvi?label=version) | `pip install taruvi` | [SDK docs](https://docs.taruvibase.com/docs/sdk/overview/) |
-| ⚛️ | **Refine Providers** | ![npm](https://img.shields.io/npm/v/@taruvi/refine-providers?label=version) | `npm install @taruvi/refine-providers` | [Refine docs](https://docs.taruvibase.com/docs/refine-providers/overview/) |
+| 🟨 | **JavaScript / TypeScript SDK** | [![npm](https://img.shields.io/npm/v/@taruvi/sdk?label=version)](https://www.npmjs.com/package/@taruvi/sdk) | `npm install @taruvi/sdk` | [SDK docs](https://docs.taruvi.cloud/docs/build/javascript) |
+| 🐍 | **Python SDK** | [![PyPI](https://img.shields.io/pypi/v/taruvi?label=version)](https://pypi.org/project/taruvi/) | `pip install taruvi` | [SDK docs](https://docs.taruvi.cloud/docs/build/python) |
+| ⚛️ | **Refine Providers** | [![npm](https://img.shields.io/npm/v/@taruvi/refine-providers?label=version)](https://www.npmjs.com/package/@taruvi/refine-providers) | `npm install @taruvi/refine-providers` | [Refine docs](https://docs.taruvi.cloud/docs/build/refine) |
 
 Building a React application? Start from the
 [**Taruvi Refine Starter**](https://github.com/Taruvi-ai/refine-starter-template)
 or use [`@taruvi/refine-providers`](https://www.npmjs.com/package/@taruvi/refine-providers)
 to connect an existing Refine application to Taruvi.
 
-Building with an AI coding agent? Use
-[**Taruvi Skills**](https://github.com/Taruvi-ai/taruvi-skills)
-and the
+Building with an AI coding agent? Use the
 [**Taruvi Agents Plugin**](https://github.com/Taruvi-ai/taruvi-agents-plugin)
-with Taruvi MCP.
+to connect supported coding agents with Taruvi MCP.
