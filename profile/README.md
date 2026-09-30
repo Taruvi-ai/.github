@@ -26,9 +26,9 @@ Enterprise backend infrastructure for secure, multi-tenant SaaS and AI applicati
 
 | SDK / Integration | Version | Install | Start here |
 |---|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" /> **JavaScript / TypeScript SDK** | [![npm](https://img.shields.io/npm/v/@taruvi/sdk)](https://www.npmjs.com/package/@taruvi/sdk) | `npm install @taruvi/sdk` | [SDK docs](https://docs.taruvibase.com/docs/build/javascript) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" /> **Python SDK** | [![PyPI](https://img.shields.io/pypi/v/taruvi)](https://pypi.org/project/taruvi/) | `pip install taruvi` | [SDK docs](https://docs.taruvibase.com/docs/build/python) |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" /> **Refine Providers** | [![npm](https://img.shields.io/npm/v/@taruvi/refine-providers)](https://www.npmjs.com/package/@taruvi/refine-providers) | `npm install @taruvi/refine-providers` | [Refine docs](https://docs.taruvibase.com/docs/build/refine) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" /> **[JavaScript / TypeScript SDK](https://github.com/Taruvi-ai/taruvi-js-sdk)** | [![npm](https://img.shields.io/npm/v/@taruvi/sdk)](https://www.npmjs.com/package/@taruvi/sdk) | `npm install @taruvi/sdk` | [SDK docs](https://docs.taruvibase.com/docs/build/javascript) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" /> **[Python SDK](https://github.com/Taruvi-ai/taruvi-python-sdk)** | [![PyPI](https://img.shields.io/pypi/v/taruvi)](https://pypi.org/project/taruvi/) | `pip install taruvi` | [SDK docs](https://docs.taruvibase.com/docs/build/python) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" /> **[Refine Providers](https://github.com/Taruvi-ai/taruvi-refine-providers)** | [![npm](https://img.shields.io/npm/v/@taruvi/refine-providers)](https://www.npmjs.com/package/@taruvi/refine-providers) | `npm install @taruvi/refine-providers` | [Refine docs](https://docs.taruvibase.com/docs/build/refine) |
 
 ## Starters & tools
 
