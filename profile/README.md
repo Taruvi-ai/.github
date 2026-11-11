@@ -85,7 +85,7 @@ Prefer a ready app? Use the **[Refine starter template](https://github.com/Taruv
 |---|---|---|---|
 | **JavaScript / TypeScript** | [taruvi-js-sdk](https://github.com/Taruvi-ai/taruvi-js-sdk) | `npm install @taruvi/sdk` | [Guide](https://docs.taruvibase.com/docs/build/javascript) |
 | **Python** | [taruvi-python-sdk](https://github.com/Taruvi-ai/taruvi-python-sdk) | `pip install taruvi` | [Guide](https://docs.taruvibase.com/docs/build/python) |
-| **Refine** | `@taruvi/refine-providers` | `npm install @taruvi/refine-providers` | [Guide](https://docs.taruvibase.com/docs/build/refine) |
+| **Refine** | [taruvi-refine-providers](https://github.com/Taruvi-ai/taruvi-refine-providers) | `npm install @taruvi/refine-providers` | [Guide](https://docs.taruvibase.com/docs/build/refine) |
 | **TanStack Query** | [taruvi-tanstack-query](https://github.com/Taruvi-ai/taruvi-tanstack-query) | `npm install @taruvi/tanstack-query` | [README](https://github.com/Taruvi-ai/taruvi-tanstack-query#readme) |
 
 ## Starters and tools
